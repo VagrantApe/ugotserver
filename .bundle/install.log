@@ -1,0 +1,5 @@
+# Logfile created on 2014-02-17 16:12:42 -0800 by logger.rb/44203
+I, [2014-02-17T16:12:42.174254 #3688]  INFO -- : 0:  ugotserver (0.0.0) from /home/johnj/rails_projects/CodeFellows/ugotserver/ugotserver.gemspec
+I, [2014-02-17T16:12:42.174660 #3688]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec
+I, [2014-02-17T17:09:38.207165 #4585]  INFO -- : 0:  ugotserver (0.0.0) from /home/johnj/rails_projects/CodeFellows/ugotserver/ugotserver.gemspec
+I, [2014-02-17T17:09:38.207577 #4585]  INFO -- : 0:  bundler (1.5.0) from /home/johnj/.rvm/gems/ruby-2.1.0@global/specifications/bundler-1.5.0.gemspec

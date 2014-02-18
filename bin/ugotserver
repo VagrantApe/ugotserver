@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'ugotserver'
+UgotServer.new(ARGV[0])
