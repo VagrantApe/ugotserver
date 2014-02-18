@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.executables << 'ugotserver'
   s.date        = '2014-02-17'
   s.summary     = "Simple serve"
-  s.description = "A Simple server gem with custom default pages"
+  s.description = "A Simple server gem to load pages from folder it is installed in"
   s.authors     = ["Craig Lucksted"]
   s.email       = 'luckstedcraig@gmail.com'
   s.files       = ["lib/ugotserver.rb"]

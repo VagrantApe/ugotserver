@@ -1,7 +1,7 @@
 U Got Server
 ============
 
-Small webswerver gem
+Small webswerver gem to serve files form folder it is installed in
 
-Default root: './public'
+
 Default port: 1870
